@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieRater</string>
+    <string name="textView">Name</string>
+</resources>
